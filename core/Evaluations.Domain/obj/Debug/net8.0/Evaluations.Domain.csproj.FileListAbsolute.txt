@@ -1,0 +1,11 @@
+/Users/ruslanmuradov/Desktop/ТЗ/core/Evaluations.Domain/bin/Debug/net8.0/Evaluations.Domain.deps.json
+/Users/ruslanmuradov/Desktop/ТЗ/core/Evaluations.Domain/bin/Debug/net8.0/Evaluations.Domain.dll
+/Users/ruslanmuradov/Desktop/ТЗ/core/Evaluations.Domain/bin/Debug/net8.0/Evaluations.Domain.pdb
+/Users/ruslanmuradov/Desktop/ТЗ/core/Evaluations.Domain/obj/Debug/net8.0/Evaluations.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ruslanmuradov/Desktop/ТЗ/core/Evaluations.Domain/obj/Debug/net8.0/Evaluations.Domain.AssemblyInfoInputs.cache
+/Users/ruslanmuradov/Desktop/ТЗ/core/Evaluations.Domain/obj/Debug/net8.0/Evaluations.Domain.AssemblyInfo.cs
+/Users/ruslanmuradov/Desktop/ТЗ/core/Evaluations.Domain/obj/Debug/net8.0/Evaluations.Domain.csproj.CoreCompileInputs.cache
+/Users/ruslanmuradov/Desktop/ТЗ/core/Evaluations.Domain/obj/Debug/net8.0/Evaluations.Domain.dll
+/Users/ruslanmuradov/Desktop/ТЗ/core/Evaluations.Domain/obj/Debug/net8.0/refint/Evaluations.Domain.dll
+/Users/ruslanmuradov/Desktop/ТЗ/core/Evaluations.Domain/obj/Debug/net8.0/Evaluations.Domain.pdb
+/Users/ruslanmuradov/Desktop/ТЗ/core/Evaluations.Domain/obj/Debug/net8.0/ref/Evaluations.Domain.dll
